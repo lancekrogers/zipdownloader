@@ -1,6 +1,11 @@
 # this is a zip downloader for udacity
 # intro to java course
 # this will not be maintened
+# to run
+# python stealer.py
+
+
+
 import subprocess as sub
 
 
