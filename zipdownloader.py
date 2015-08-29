@@ -2,7 +2,7 @@
 # intro to java course
 # this will not be maintened
 # to run
-# python stealer.py
+# python zipdownloader.py
 
 
 
