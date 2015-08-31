@@ -5,9 +5,10 @@ This code was written to download the lesson files for Udacity's Intro to Java C
 *To run this code:*
 
 ```
-python3 zipdownloader2.py [number of files**] [file name]
+python3 zipdownloader.py [number of lessons] [directory to send lessons]
 ```
 
-*[file name]* is optional and will be created if it does not exist. If omitted, the files will be downloaded into the project directory
+*[number of lessons]* and *[directory to send lessons]* are optional and default to the current
+directory and 4 lessons (there are only 4 lessons of files).
 
 ** in ascending order
